@@ -1,0 +1,9 @@
+{
+    "appName": "FanSizer",
+    "Home": "Esta es la casa",
+    "Counter":"Contador ++",
+    "routes":{
+        "login": "Login o Registro",
+        "groups":"Grupos"
+    }
+}

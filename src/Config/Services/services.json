@@ -1,0 +1,12 @@
+[
+    {
+        "name": "GetGroups",
+        "type": "GET",
+        "url": "{Base_API}/Groups"
+    },
+    {
+        "name": "Login",
+        "type": "POST",
+        "url": "{Base_API}/Login"
+    }
+]

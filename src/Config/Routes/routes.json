@@ -1,0 +1,22 @@
+[
+    {
+        "component": "Home",
+        "url": "/Home",
+        "requireLogin": false
+    },
+    {
+        "component": "Counter",
+        "url": "/Counter",
+        "requireLogin": false
+    },
+    {
+        "component": "Login",
+        "url": "/Login",
+        "requireLogin": false
+    },
+    {
+        "component": "Groups",
+        "url": "/Groups",
+        "requireLogin": true
+    }
+]
